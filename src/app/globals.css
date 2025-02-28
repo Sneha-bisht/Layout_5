@@ -22,3 +22,40 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.text{
+  height: 32px;
+  width: 139px;
+  font-family: Karla;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color:#212121;
+}
+.span-text{
+  width:203px;
+  height: 29px;
+  font-family: Karla;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 47.19px;
+  color:#0048BA;
+  margin-top: auto;
+  text-align: center;
+  align-content: center;
+}
+
+.btn{
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+
+.Icon{
+
+  width: 32px;
+  height: 32px;
+  color:#00000000;
+ 
+}
