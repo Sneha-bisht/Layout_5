@@ -42,14 +42,11 @@ function Navbar() {
       <Button w="66px" h="36px" bg="#2A47D5" color="white" p="8px" borderRadius="7px" ml="5px" mb="2">
         Search
       </Button>
-      </InputGroup>
-
-      
+      </InputGroup> 
     </Box>
  
-
-
-<Box h='36px' w='204px' p='9.83px' border='1px solid #E2E2E2' borderRadius={'6.88px'} mt='30px' ml='150px'><Text
+ 
+<Box h='36px' w='204px' p='9.83px' border='1px solid #E2E2E2' borderRadius={'6.88px'} mt='30px' ml='160px'><Text
   w='76px' h='16px' fontFamily={'Karla'} fontWeight={400} fontSize={'14px'} lineHeight='16.37px' color='#000000' ml='55px'> 
   All Subjects</Text></Box>
   <Box h='36px' w='231px' p='9.83px' border='1px solid #E2E2E2' borderRadius={'6.88px'} mt='30px' ><Text
